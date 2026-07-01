@@ -56,3 +56,7 @@ confidenciales de un negocio real.
 4. **Viernes y sábado** son los días de mayor actividad.
 5. El **20% de los clientes más frecuentes genera cerca del 60% de los ingresos**
    — un fuerte argumento para un programa de lealtad dirigido.
+
+## Dashboard Interactivo
+
+![Dashboard de ventas](screenshots/dashboard.png)
