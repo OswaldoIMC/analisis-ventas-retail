@@ -59,4 +59,4 @@ confidenciales de un negocio real.
 
 ## Dashboard Interactivo
 
-![Dashboard de ventas](screenshots/dashboard.png)
+![Dashboard de ventas](screenshots/dashboard.jpg)
